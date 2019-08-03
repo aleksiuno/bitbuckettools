@@ -5,15 +5,17 @@ $(document).ready(function () {
 
     let idSummary = '#js-total-lines';
 
-    appendSummary(
-        SUMMARY_CONTAINER_CLASS,
-        LINES_ADDED_CLASS,
-        LINES_REMOVED_CLASS,
-        idSummary
-    );
+    if ($(SUMMARY_CONTAINER_CLASS).length !== 0) {
+        appendSummary(
+            SUMMARY_CONTAINER_CLASS,
+            LINES_ADDED_CLASS,
+            LINES_REMOVED_CLASS,
+            idSummary
+        );
+    }
 
     /**
-     *
+     * Append total lines summary to the summary container
      * @param container
      * @param linesAddedClass
      * @param linesRemovedClass
@@ -38,7 +40,7 @@ $(document).ready(function () {
     }
 
     /**
-     *
+     * Generate summary HTML element
      * @param id
      * @param totalAdded
      * @param totalRemoved
@@ -46,7 +48,7 @@ $(document).ready(function () {
      * @returns {string}
      */
     function buildSummaryHTML(id, totalAdded, totalRemoved, total) {
-        return '<div id="'+id+'">' +
+        return '<div id="' + id + '">' +
             '<hr style="margin: 0">\n' +
             '<li>\n' +
             '    <div class="commit-file-diff-stats">\n' +
