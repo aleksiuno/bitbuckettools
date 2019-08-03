@@ -53,7 +53,7 @@ $(document).ready(function () {
             '        <span class="lines-added">+' + totalAdded + '</span>\n' +
             '        <span class="lines-removed">-' + totalRemoved + '</span>\n' +
             '    </div>\n' +
-            '    <p style="margin:0; color: #399839;">Total: <span style="background-color: #cfc">' + total + '</span></p>\n' +
+            '    <p style="margin:0; color: #399839;">Total: <span style="border: 1px solid; border-radius: 4px;">' + total + '</span></p>\n' +
             '</li>' +
             '</div>';
     }
