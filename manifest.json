@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "BitBucket Extension",
+  "description": "This plugin calculates total lines added and removed in the pull request",
+  "version": "0.1.1",
+  "icons": {
+    "16": "views/img/icon/icon16.png",
+    "48": "views/img/icon/icon48.png",
+    "128": "views/img/icon/icon128.png"
+  },
+  "browser_action": {
+    "default_icon": "views/img/icon/icon.png",
+    "default_popup": "views/templates/settings.html"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "views/js/frameworks/jquery-3.4.1.min.js",
+        "views/js/bit-bucket-calc.js"
+      ]
+    }
+  ]
+}

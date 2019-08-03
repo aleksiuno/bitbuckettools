@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="ico.svg"
+   width="256"
+   height="256"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bitbucket-blue</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1299"
+     inkscape:window-height="713"
+     id="namedview41"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.78930159"
+     inkscape:cx="53.407212"
+     inkscape:cy="116.99759"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs9">
+    <style
+       id="style2">.cls-1{fill:#253858;}.cls-2{fill:none;}.cls-3{fill:#2684ff;}.cls-4{fill:url(#New_Gradient_Swatch_1);}</style>
+    <linearGradient
+       id="New_Gradient_Swatch_1"
+       x1="64.010002"
+       y1="30.27"
+       x2="32.990002"
+       y2="54.48"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.18"
+         stop-color="#0052cc"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#2684ff"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title11">Bitbucket-blue</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     transform="translate(51.944656,50.832402)">
+    <g
+       id="g4585"
+       transform="rotate(-7.0631456,44.969273,240.63261)">
+      <rect
+         transform="rotate(14.421787)"
+         style="fill:#095dd8;fill-opacity:1;stroke-width:0.8290723"
+         ry="5.4825754"
+         rx="3.1342971"
+         y="-35.856739"
+         x="92.115189"
+         height="102.10782"
+         width="58.373333"
+         id="rect3765" />
+      <path
+         sodipodi:nodetypes="ssssscs"
+         inkscape:connector-curvature="0"
+         id="rect4574"
+         d="m 193.00318,38.273703 c -1.46813,6.330506 -7.98829,10.057541 -14.28202,8.439034 L 69.205258,18.549438 C 62.911526,16.930931 59.147717,10.561151 60.766224,4.2674192 L 71.348042,-36.881077 c 1.618507,-6.293731 8.622975,-11.633692 14.282019,-8.439034 C 137.26866,-28.368095 195.00158,29.6568 193.00318,38.273703 Z"
+         style="fill:#2684ff;fill-opacity:1;stroke-width:1.01902413" />
+    </g>
+    <g
+       id="g3763"
+       transform="matrix(2.8266895,0,0,2.8266895,-12.182105,27.156325)">
+      <polygon
+         class="cls-2"
+         points="37.75,43.51 40.9,25.12 21.23,25.12 24.7,43.51 "
+         id="polygon31"
+         style="fill:none" />
+      <path
+         class="cls-3"
+         d="M 2,6.26 A 2,2 0 0 0 0,8.58 l 8.49,51.54 a 2.72,2.72 0 0 0 2.66,2.27 h 40.73 a 2,2 0 0 0 2,-1.68 L 62.37,8.59 a 2,2 0 0 0 -2,-2.32 z m 35.75,37.25 h -13 L 21.23,25.12 H 40.9 Z"
+         id="path33"
+         inkscape:connector-curvature="0"
+         style="fill:#2684ff" />
+      <path
+         class="cls-4"
+         d="M 59.67,25.12 H 40.9 l -3.15,18.39 h -13 L 9.4,61.73 a 2.71,2.71 0 0 0 1.75,0.66 h 40.74 a 2,2 0 0 0 2,-1.68 z"
+         id="path35"
+         inkscape:connector-curvature="0"
+         style="fill:url(#New_Gradient_Swatch_1)" />
+    </g>
+  </g>
+</svg>
